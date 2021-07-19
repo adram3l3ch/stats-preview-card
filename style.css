@@ -56,12 +56,12 @@ p {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  max-width: 35%;
+  max-width: 40%;
 }
 
 .image img {
   border-radius: 0px 10px 10px 0px;
-  max-width: 100%;
+  min-height: 100%;
   position: relative;
 }
 .image {
